@@ -1,0 +1,54 @@
+mp:
+  email: jiangwenhua@yoyohr.com
+  password: 
+  crawler_token: 
+
+db:
+  ai:
+    driver: mysql
+    host: localhost
+    port: 3306
+    user: root
+    password: 123456
+    database: ai
+  beauty:
+    driver: mysql
+    host: localhost
+    port: 3306
+    user: root
+    password: 123456
+    database: beauty
+  baogao:
+    driver: mysql
+    host: localhost
+    port: 3306
+    user: root
+    password: 123456
+    database: baogao
+  zlf:
+    driver: 'ODBC Driver 17 for SQL Server'
+    host: 
+    port: 
+    user: 
+    password: 
+    database: 
+  local_zlf:
+    driver: 'ODBC Driver 17 for SQL Server'
+    host: 
+    port: 
+    user: 
+    password: 
+    database: 
+    
+
+bosonnlp:
+  token: 
+
+cs:
+  access_key_id: 
+  access_key_secret: 
+  cluster_id: 
+  master_url: 
+  region_id: 
+
+
